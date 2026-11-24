@@ -1,0 +1,6 @@
+{
+  "name": "Cominitech",
+  "description": "مراقب أداء النظام وعتاد الجهاز مثل Task Manager و CPU-Z مع تفاصيل الذاكرة والمعالج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
